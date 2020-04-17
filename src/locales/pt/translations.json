@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "Procedimento SUS",
+    "subtitle": "Procedimento SUS é um app que auxilia os médicos brasileiros\n a navegar e pesquisar na lista oficial\n de procedimentos do Ministério da Saúde.",
+    "cta": "Baixe agora de graça"
+  },
+  "footer": {
+    "copyright": "Feito com",
+    "contact": "Entre em contato!"
+  },
+  "content": {
+    "title": "Funcionalidades essenciais para seu cotidiano",
+    "subtitle": "Acesse rapidamente a Tabela de Procedimentos, Medicamentos, Órteses e\n Próteses e Materiais Especiais (OPM) do SUS.",
+    "content": "O Procedimentos SUS é o único aplicativo\n da App Store que ajuda a encontrar o\n código dos procedimentos utilizados pelo\n Sistema Único de Saúde (SUS).",
+    "sentence": "Essencial para todos os médicos que trabalham em enfermarias e\n ambulatórios pelo SUS."
+  },
+  "cta": {
+    "title": "Fique atualizado!",
+    "content": "Faça parte do processo de desenvolvimento sendo o primeiro a testar as novas funcionalidades.",
+    "button": "Junte-se ao beta"
+  }
+}
